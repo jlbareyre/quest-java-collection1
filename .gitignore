@@ -28,3 +28,4 @@ hs_err_pid*
 .idea
 
 # End of https://www.gitignore.io/api/java
+.vscode/settings.json
